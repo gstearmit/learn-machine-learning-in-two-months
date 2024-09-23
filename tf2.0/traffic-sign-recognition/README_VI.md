@@ -1,3 +1,6 @@
+
+# repo : https://github.com/gstearmit/traffic-sign-recognition/blob/master/README_VI.md
+
 # Nhận diện Biển Báo Giao Thông
 
 ## Mô Tả Dự Án & Mục Tiêu
