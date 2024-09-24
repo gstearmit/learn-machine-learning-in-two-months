@@ -18,6 +18,8 @@ https://www.kaggle.com/code/tuanai/transfer-learning-use-inception-v3
 Video : 4. Tự động đánh nhãn và xây dựng nhanh model nhận diện ảnh trong thực tế
         https://www.youtube.com/watch?v=ee9tF9xEf04
 
+6. Biểu diễn Convolution layer + Max Pooling layer 
+https://docs.google.com/presentation/d/1lF7FMp5qrJjn26SD7cPgRCv_9506OauRKpdbo8N_cxI/edit#slide=id.g6aea276e69_0_36
 
 # -----------Danh sách các khóa học-----------
 1. Học Python cơ bản
