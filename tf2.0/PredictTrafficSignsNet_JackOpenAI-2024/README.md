@@ -1,3 +1,6 @@
+
+# Google drive luu : https://drive.google.com/drive/folders/1DLxQqnI6qr8thj5AhNEasHTxfe41t2WU
+
 # repo tham khảo : https://github.com/gstearmit/traffic-sign-recognition/blob/master/README_VI.md
 
 # Để triển khai thực tế dự án thì cần data cho vào 3 thư mục : train, test, validation 
