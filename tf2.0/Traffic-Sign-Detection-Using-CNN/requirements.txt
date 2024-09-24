@@ -1,0 +1,8 @@
+Pandas
+Numpy
+tensorflow
+PIL
+Sklearn
+keras
+matplotlib/seaborn
+tkinter
