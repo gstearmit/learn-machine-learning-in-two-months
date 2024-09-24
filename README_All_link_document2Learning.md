@@ -50,6 +50,11 @@ D:\Document final all ML - AI 2024\Sach_Deep_Learning_c_bn.pdf
 ### v2 : Sách Deep Learning cơ bản - v2.pdf
 https://nttuan8.com/sach-deep-learning-co-ban/
 
+### Github :
+   https://github.com/nttuan8/DL_Tutorial/blob/master/L8/drive.py
+   https://github.com/nttuan8/AdvancedDeepLearning/tree/master/1.%20Introduction
+   https://github.com/nttuan8/DeepLearningForComputerVisionWithPython/blob/master/NeurualNetwork/mnist.py
+
 Nội dung sách
 Chương I, mình giới thiệu về cách cài đặt môi trường với Anaconda để chạy code Python cơ bản. Ngoài ra mình cũng hướng dẫn sử dụng Google Colab, với GPU Tesla K80 được Google cung cấp miễn phí. Nên bạn đọc có thể train model online thay vì sử dụng máy tính, laptop cá nhân.
 

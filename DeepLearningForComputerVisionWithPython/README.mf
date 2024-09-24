@@ -1,0 +1,6 @@
+Some practical algorithm of computer vision in deep learning by Python
+
+
+# Add 
+https://github.com/gstearmit/DeepLearningForComputerVisionWithPython.git
+https://github.com/nttuan8/DeepLearningForComputerVisionWithPython/blob/master/NeurualNetwork/mnist.py
